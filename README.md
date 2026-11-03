@@ -2,6 +2,10 @@
 
 # Muse Save Tokens
 
+[![Project Status: WIP](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+**Status:** In development — this guide is a working draft, not yet final. / **Estado:** En desarrollo — esta guía es un borrador en curso, aún no final.
+
 **One main chat, one tasks chat, one chat per project — one shared memory. A simple method to keep an AI assistant fast, accurate, and cheap on tokens.**
 *Un chat principal, un chat de tareas, un chat por proyecto — una sola memoria compartida. Un método sencillo para mantener un asistente de IA rápido, preciso y económico en tokens.*
 
