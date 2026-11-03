@@ -1,3 +1,5 @@
+🇺🇸 English | 🇪🇸 Español — this guide is bilingual: each section in English first, then Spanish. / Esta guía es bilingüe: cada sección en inglés primero y después en español.
+
 # Muse Save Tokens
 
 **One main chat, one tasks chat, one chat per project — one shared memory. A simple method to keep an AI assistant fast, accurate, and cheap on tokens.**
@@ -34,6 +36,8 @@ If everything happens in one single chat, the history grows without limit. Every
 Don't want to figure out the setup alone? [SETUP-CONVERSATION.md](SETUP-CONVERSATION.md) shows a complete model conversation — a user and Muse configuring this method from zero, one decision at a time, exactly the way it was built in real use. Read it, or replay it with your own assistant.
 
 *¿No quieres armar la configuración solo? [SETUP-CONVERSATION.md](SETUP-CONVERSATION.md) muestra una conversación modelo completa — un usuario y Muse configurando este método desde cero, una decisión a la vez, exactamente como se construyó en el uso real. Léela, o repítela con tu propio asistente.*
+
+**Contents:** [What is this?](#what-is-this) · [The final model](#the-final-model-at-a-glance) · [The method](#the-method-step-by-step) · [A short real example](#a-short-real-example) · [FAQ](#faq) · [Credits](#credits) · [License](#license)
 
 ## The final model, at a glance
 
@@ -185,6 +189,13 @@ Only an assistant with persistent memory and more than one chat. The method is a
 Other open-source tools save tokens at other layers: some shorten the assistant's **replies**, others compress the **conversation history** for coding agents (for example, [TOMC](https://github.com/ZipengWu365/TOMC)). This guide works at a different layer — **how a person organizes chats, memory, and topics day to day** — and it is written for non-technical users of a personal assistant. The approaches stack; they do not compete.
 
 *Otras herramientas de código abierto ahorran tokens en otras capas: unas acortan las **respuestas** del asistente, otras comprimen el **historial** para agentes de programación (por ejemplo, [TOMC](https://github.com/ZipengWu365/TOMC)). Esta guía trabaja en otra capa — **cómo una persona organiza chats, memoria y temas en el día a día** — y está escrita para usuarios no técnicos de un asistente personal. Los enfoques se suman; no compiten.*
+
+## Credits
+
+- Built for [Muse](https://muse.ai), Meta's personal AI agent — the assistant this method was developed with, in real daily use.
+- Compared in the last section: [TOMC](https://github.com/ZipengWu365/TOMC), an open-source token compressor for coding agents.
+
+*Créditos: creado para [Muse](https://muse.ai), el agente personal de IA de Meta, el asistente con el que se desarrolló este método en el uso diario real. Comparado en la última sección: [TOMC](https://github.com/ZipengWu365/TOMC), un compresor de tokens de código abierto para agentes de programación.*
 
 ## License
 
