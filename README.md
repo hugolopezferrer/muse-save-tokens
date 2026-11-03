@@ -185,3 +185,9 @@ Only an assistant with persistent memory and more than one chat. The method is a
 Other open-source tools save tokens at other layers: some shorten the assistant's **replies**, others compress the **conversation history** for coding agents (for example, [TOMC](https://github.com/ZipengWu365/TOMC)). This guide works at a different layer — **how a person organizes chats, memory, and topics day to day** — and it is written for non-technical users of a personal assistant. The approaches stack; they do not compete.
 
 *Otras herramientas de código abierto ahorran tokens en otras capas: unas acortan las **respuestas** del asistente, otras comprimen el **historial** para agentes de programación (por ejemplo, [TOMC](https://github.com/ZipengWu365/TOMC)). Esta guía trabaja en otra capa — **cómo una persona organiza chats, memoria y temas en el día a día** — y está escrita para usuarios no técnicos de un asistente personal. Los enfoques se suman; no compiten.*
+
+## License
+
+MIT — see [LICENSE](LICENSE). You are free to use, copy, and adapt this method.
+
+*Licencia MIT — ver [LICENSE](LICENSE). Eres libre de usar, copiar y adaptar este método.*
